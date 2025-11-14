@@ -11,5 +11,5 @@ steps:
   entrypoint: 'mvn'
   args: ['test', '-P', 'local']
   env:
-  - 'LT_USERNAME=${_LT_USERNAME}'
-  - 'LT_ACCESS_KEY=${_LT_ACCESS_KEY}'
+  - 'LT_USERNAME=naveda'
+  - 'LT_ACCESS_KEY=eAav6iedVumSPZj0j5H0p2828ajBIvg6ipgdDBgoWep3OqRVRE'
